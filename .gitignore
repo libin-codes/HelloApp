@@ -1,41 +1,31 @@
-# Prerequisites
-*.d
+.vscode/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Compiled class file
 
-# Precompiled Headers
-*.gch
-*.pch
+*.class
 
-# Linker files
-*.ilk
+*.jar
 
-# Debugger Files
-*.pdb
+*.log
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Other File Exclusions
 
-# Fortran module files
-*.mod
-*.smod
+.DS_Store
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+*.iml
 
-# Executables
-*.exe
-*.out
-*.app
+# Build Folders Exclusion
 
-# debug information files
-*.dwo
+.idea/
+
+target/
+
+bin/
+
+doc/
+
+out/
+
+build/
+
+dist/
