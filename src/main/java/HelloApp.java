@@ -5,6 +5,6 @@ public class HelloApp{
             name = args[0];
         }
 
-        System.err.println("Hello, " + name + "!");
+        System.out.println("Hello, " + name + "!");
     }
 }
